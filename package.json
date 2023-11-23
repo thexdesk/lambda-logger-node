@@ -35,7 +35,7 @@
   "author": "Tim Kye",
   "license": "UNLICENSED",
   "dependencies": {
-    "fast-safe-stringify": "^2.0.6"
+    "fast-safe-stringify": "^2.1.1"
   },
   "devDependencies": {
     "@nike/eslint-config-sprockets": "^1.0.6",
